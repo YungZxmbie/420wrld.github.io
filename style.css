@@ -189,6 +189,9 @@ button:hover{
 
 /* responsive navbar*/
 @media (max-width: 800px) {
+    .body{
+        overflow-x: hidden;
+    }
     .searchBtn{
         left: 0;
     }
